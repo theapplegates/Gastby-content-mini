@@ -9,7 +9,7 @@ module.exports = {
           accessToken: "WQwCTJXQDQwHQbBwxLo9MG-FkOL4Hx6F69YS0GOukLM"
         },
         title: "Paul Applegate | Living Life",
-        description: "Living life and writing some things down along the way",
+        description: "",
         siteUrl: 'https://affectionate-leakey-c70632.netlify.com', // no trailing slash
       }
     }
