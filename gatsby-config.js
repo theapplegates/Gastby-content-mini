@@ -8,9 +8,9 @@ module.exports = {
           spaceId: "emgwebwgv5rc",
           accessToken: "WQwCTJXQDQwHQbBwxLo9MG-FkOL4Hx6F69YS0GOukLM"
         },
-        title: "Your title",
-        description: "Your description",
-        siteUrl: 'https://example.com', // no trailing slash
+        title: "Paul Applegate | Living Life",
+        description: "Living life and writing some things down along the way",
+        siteUrl: 'https://affectionate-leakey-c70632.netlify.com', // no trailing slash
       }
     }
   ]
